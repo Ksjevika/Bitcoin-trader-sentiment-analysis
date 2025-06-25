@@ -1,6 +1,6 @@
 # 📁 hyperliquid_trades.csv (Full Dataset)
 
-The full dataset `hyperliquid_trades.csv` exceeds GitHub’s 100MB file size limit and cannot be hosted here directly.
+The full dataset `hyperliquid_trades.csv` exceeds GitHub’s file size limit and cannot be hosted here directly.
 
 You can access it via Google Drive using the link below:
 
