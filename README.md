@@ -68,7 +68,6 @@ These findings suggest that **cautious or opportunistic behavior during Fear** m
 
 - Python (Pandas, Seaborn, Matplotlib)
 - Google Colab
-- Jupyter Notebook
 - CSV + Google Drive Integration
 
 ---
